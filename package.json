@@ -1,6 +1,6 @@
 {
   "name": "load_env",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "load env",
   "main": "index.js",
   "repository": {

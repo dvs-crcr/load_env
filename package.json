@@ -1,0 +1,20 @@
+{
+  "name": "load_env",
+  "version": "1.0.0",
+  "description": "load env",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvs-crcr/load_env.git"
+  },
+  "keywords": [
+    "nodejs",
+    "env"
+  ],
+  "author": "dvs <dvs@crcr.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dvs-crcr/load_env/issues"
+  },
+  "homepage": "https://github.com/dvs-crcr/load_env#readme"
+}

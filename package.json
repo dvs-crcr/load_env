@@ -1,6 +1,6 @@
 {
-  "name": "load_env",
-  "version": "1.0.1",
+  "name": "@crcr/load_env",
+  "version": "1.0.2",
   "description": "load env",
   "main": "index.js",
   "repository": {
